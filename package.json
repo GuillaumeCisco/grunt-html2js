@@ -42,7 +42,7 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "html-minifier": "git://github.com/GuillaumeCisco/html-minifier.git",
+    "html-minifier": "git://github.com/GuillaumeCisco/html-minifier.git#v0.6.9",
     "jade": "^1.3.1"
   }
 }
